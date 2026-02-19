@@ -9,14 +9,13 @@ location: "Caen, France"
 ---
 
 Undergraduate course, Licence 1
+======
 
 Optique Géométrique
-======
 
 TP de Physique
-======
 
 Graduate course, Master 1
+======
 
 Classical and Quantum Scattering (SPHY2B12)
-======
