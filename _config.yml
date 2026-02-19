@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "David Dubois"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Junior Professor"
+  location         : "Caen, France"
+  employer         : "Université Caen Normandie"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "david.dubois@unicaen.fr" 
 
   # Academic websites
   academia         : # URL
