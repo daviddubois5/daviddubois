@@ -5,9 +5,9 @@ var addressPoints = [
     -118.144155
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "[Invited] Characterizing the Building Blocks of Organic Macromolecules : Multidisciplinary Studies of Titan\u2019s Atmosphere and Cold Nitrogen-rich Environments<br />Universit\u00e9 d'Orl\u00e9ans, France; Orl\u00e9ans, France",
+    47.9027336,
+    1.9086066
   ],
   [
     "[Invited] Institut de Physique de Rennes - Characterizing the Building Blocks of Organic Macromolecules : Multidisciplinary Studies of Titan\u2019s Atmosphere and Cold Nitrogen-rich Environments<br />IPR, Universit\u00e9 de Rennes; Rennes, France",
