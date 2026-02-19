@@ -13,7 +13,7 @@ locale                   : "en-US"
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-title                    : "David Dubois"
+title                    : "David Duboiss"
 title_separator          : "-"
 name                     : &name "David Dubois"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
