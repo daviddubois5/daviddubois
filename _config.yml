@@ -8,7 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+#site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 title                    : "David Dubois"
 title_separator          : "-"
 name                     : &name "David Dubois"
