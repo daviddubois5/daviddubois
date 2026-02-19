@@ -10,9 +10,9 @@ var addressPoints = [
     -0.1277653
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "[Invited] Institut de Physique de Rennes - Characterizing the Building Blocks of Organic Macromolecules : Multidisciplinary Studies of Titan\u2019s Atmosphere and Cold Nitrogen-rich Environments<br />IPR, Universit\u00e9 de Rennes; Rennes, France",
+    48.1113387,
+    -1.6800198
   ],
   [
     "[Invited] 242nd Meeting of the American Astronomical Society, Laboratory Astrophysics Division<br />AAS-LAD; Albuquerque, NM, USA",
