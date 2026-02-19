@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "David Dubois"
 title_separator          : "-"
 name                     : &name "David Dubois"
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "IMG_1958-2.jpg"
   name             : "David Dubois"
-  pronouns         : # example: "she/her"  
+  pronouns         : #
   bio              : "Junior Professor at the Université Caen Normandie - GANIL"
   location         : "Caen, France"
   employer         : "Université Caen Normandie"
