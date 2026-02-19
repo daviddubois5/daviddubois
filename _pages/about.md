@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome,
 
-I am a junior professor at the Université Caen Normandie and also conducting my research at the Grand Accélérateur National d'Ions Lourds in Caen, France.
+I am a junior professor at the Université Caen Normandie and also conducting my research at the Grand Accélérateur National d'Ions Lourds in Caen, France.1
 
 
 A data-driven personal website
