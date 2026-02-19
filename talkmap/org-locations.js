@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Investigating Titan's Atmosphere and Haze<br />Jet Propulsion Laboratory, Caltech; Pasadena, CA, USA",
+    "[Invited] Investigating Titan's Atmosphere and Haze<br />Jet Propulsion Laboratory, Caltech; Pasadena, CA, USA",
     34.1476507,
     -118.144155
   ],
