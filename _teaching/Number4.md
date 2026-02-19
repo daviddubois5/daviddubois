@@ -11,7 +11,7 @@ location: "Caen, France"
 Undergraduate course, Licence 1
 ======
 
-Optique Géométrique
+TD d'Optique Géométrique
 
 TP de Physique
 
