@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 #theme: minimal-mistakes-jekyll
 #minimal_mistakes_skin: "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-title                    : "David Duboiss"
+title                    : "David Dubois"
 title_separator          : "-"
 name                     : &name "David Dubois"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
