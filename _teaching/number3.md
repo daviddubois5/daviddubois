@@ -8,4 +8,6 @@ date: 2018-01-01
 location: "Orsay, France"
 ---
 
-Tectonique et Cartographie Géologique (Licence) 15 h
+Tectonique et Cartographie Géologique (Licence) 15h
+GEO101 Introduction à la Géologie (Licence) 24h
+GEO213 Tectonique et Cartographie Géologique (Licence) 15h
