@@ -2,7 +2,7 @@
 title: "2016/2017"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "University 1, Department"
 date: 2016-01-01
 location: "Orsay, France"
