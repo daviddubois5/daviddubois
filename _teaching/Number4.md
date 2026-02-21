@@ -11,11 +11,10 @@ location: "Caen, France"
 Undergraduate course, Licence 1
 ======
 
-TD d'Optique Géométrique
-
-TP de Physique
+TD d'Optique Géométrique - 20h
+TP de Physique - 12h
 
 Graduate course, Master 1
 ======
 
-Classical and Quantum Scattering (SPHY2B12)
+Classical and Quantum Scattering (SPHY2B12) - 12h
