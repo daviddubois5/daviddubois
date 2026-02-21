@@ -3,18 +3,9 @@ title: "2017/2018"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Université Paris-Sud"
+date: 2018-01-01
+location: "Orsay, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Tectonique et Cartographie Géologique (Licence) 15 h
