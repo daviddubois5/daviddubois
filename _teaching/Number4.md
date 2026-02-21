@@ -2,7 +2,7 @@
 title: "2025/2026"
 collection: teaching
 type: "Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/Number4
 venue: "Université Caen Normandie, Département de Physique"
 date: 2026-01-01
 location: "Caen, France"
