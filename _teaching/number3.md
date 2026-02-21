@@ -1,7 +1,7 @@
 ---
 title: "2017/2018"
 collection: teaching
-type: "Workshop"
+type: "Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Université Paris-Sud"
 date: 2018-01-01
