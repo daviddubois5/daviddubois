@@ -1,7 +1,7 @@
 ---
 title: "2016/2017"
 collection: teaching
-type: "Workshop"
+type: "Course"
 permalink: /teaching/2015-spring-teaching-2
 venue: "University 1, Department"
 date: 2016-01-01
