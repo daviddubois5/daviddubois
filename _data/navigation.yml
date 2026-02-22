@@ -17,8 +17,8 @@ main:
   - title: "Talks"
     url: /talks/      
     
- # - title: "Portfolio"
-  #  url: /portfolio/
+  - title: "Teaching and Open Access Resources"
+   url: /portfolio/
         
 #  - title: "Blog Posts"
    # url: /year-archive/
