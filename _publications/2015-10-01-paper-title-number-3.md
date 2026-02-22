@@ -4,10 +4,10 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 date: 2019-01-01
-venue: 'ApJL'
+venue: 'Astrophysical Journal Letters'
 paperurl: 'https://daviddubois5.github.io/daviddubois/files/Dubois_2019_ApJL_872_L31.pdf'
 bibtexurl: 'https://daviddubois5.github.io/daviddubois/files/export-bibtex3.bib'
-citation: 'Dubois et al. (2019). 872:L31'
+citation: 'Dubois et al. (2019). ApJL 872:L31'
 ---
 
 The Cassini Plasma Spectrometer (CAPS) Electron Spectrometer (ELS) instrument on board Cassini revealed an
