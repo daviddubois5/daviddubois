@@ -1,1 +1,13 @@
+---
+title: "Photochemical Haze Formation on Titan and Uranus: A Comparative Review"
+collection: publications
+category: manuscripts
+permalink: /publication/2010-10-01-paper-title-number-2
+date: 2020-01-01
+venue: 'International Journal of Molecular Sciences'
+paperurl: 'https://daviddubois5.github.io/daviddubois/files/ijms-26-07531-v2.pdf'
+bibtexurl: 'https://daviddubois5.github.io/daviddubois/files/articles_export_20260222.bib'
+citation: 'Dubois et al. (2025). IJMS 26, 7531'
+---
 
+The formation and evolution of haze layers in planetary atmospheres play a critical role in shaping their chemical composition, radiative balance, and optical properties. In the outer solar system, the atmospheres of Titan and the giant planets exhibit a wide range of com-positional and seasonal variability, creating environments favorable for the production of complex organic molecules under low-temperature conditions. Among them, Uranus-the smallest of the ice giants-has, since Voyager 2, emerged as a compelling target for future exploration due to unanswered questions regarding the composition and structure of its atmosphere, as well as its ring system and diverse icy moon population (which includes four possible ocean worlds). Titan, as the only moon to harbor a dense atmosphere, presents some of the most complex and unique organics found in the solar system. Central to the production of these organics are chemical processes driven by low-energy photons and electrons (<50 eV), which initiate reaction pathways leading to the formation of organic species and gas phase precursors to high-molecular-weight compounds, including aerosols. These aerosols, in turn, remain susceptible to further processing by low-energy UV radiation as they are transported from the upper atmosphere to the lower stratosphere and troposphere where condensation occurs. In this review, I aim to summarize the current understanding of low-energy (<50 eV) photon-and electron-induced chemistry, drawing on decades of insights from studies of Titan, with the objective of evaluating the relevance and extent of these processes on Uranus in anticipation of future observational and in situ exploration.
