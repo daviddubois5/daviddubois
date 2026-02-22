@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://github.com/daviddubois5/daviddubois/tree/master/files/2019_Icarus.pdf'
+paperurl: 'https://daviddubois5.github.io/daviddubois//publications/files/2019_Icarus.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
