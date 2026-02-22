@@ -3,7 +3,7 @@ title: "Photochemical Haze Formation on Titan and Uranus: A Comparative Review"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-date: 2020-01-01
+date: 2025-08-04
 venue: 'International Journal of Molecular Sciences'
 paperurl: 'https://daviddubois5.github.io/daviddubois/files/ijms-26-07531-v2.pdf'
 bibtexurl: 'https://daviddubois5.github.io/daviddubois/files/articles_export_20260222.bib'
