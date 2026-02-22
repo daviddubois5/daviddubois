@@ -17,14 +17,8 @@ main:
   - title: "Talks"
     url: /talks/      
     
-  - title: "Portfoliooo"
-    url: /portfolio/
-    
   - title: "Teaching and Open Access Resources"
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
