@@ -6,6 +6,7 @@ permalink: /publication/2010-10-01-paper-title-number-2
 date: 2020-10-01
 venue: 'Icarus'
 paperurl: 'https://daviddubois5.github.io/daviddubois/files/2020_Icarus.pdf'
+bibtexurl: 'https://daviddubois5.github.io/daviddubois/files/export-bibtex2.bib'
 citation: 'Dubois et al. (2020). 338, 113437'
 ---
 
