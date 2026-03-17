@@ -20,7 +20,7 @@ Jmol
 
 
 TeXMaker
-=====
+-----
 
 * If you use LaTeX typesetting, TeXMaker is a very useful, completely free, LaTeX editor which does not neet an internet connection.
   * It has a built-in interface, math mode, auto completion, and PDF viewer.
@@ -28,7 +28,7 @@ TeXMaker
 
 
 Stellarium
-=====
+-----
 
 * Stellarium is an open source planetarium application that represents the 3D sky like never before!
   * More than 200 million stars
