@@ -16,4 +16,6 @@ redirect_from:
   * The Java desktop application supports many file formats (MOL, xyz, CIF, Gaussian...) and can also import animations, vibrations, orbitals etc.  
 
 
-** If you use LaTeX typesetting, TeXMaker is a very useful, completely free, LaTeX editor which does not neet an internet connection.  It has a built-in interface, math mode, auto completion, and PDF viewer. Available here: "https://www.xm1math.net/texmaker/"
+* If you use LaTeX typesetting, TeXMaker is a very useful, completely free, LaTeX editor which does not neet an internet connection.
+  * It has a built-in interface, math mode, auto completion, and PDF viewer.
+  * Available here: "https://www.xm1math.net/texmaker/"
