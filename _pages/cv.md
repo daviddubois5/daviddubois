@@ -19,3 +19,11 @@ redirect_from:
 * If you use LaTeX typesetting, TeXMaker is a very useful, completely free, LaTeX editor which does not neet an internet connection.
   * It has a built-in interface, math mode, auto completion, and PDF viewer.
   * Available here: https://www.xm1math.net/texmaker/
+
+
+* Stellarium is an open source planetarium application that represents the 3D sky like never before!
+  * More than 200 million stars
+  * Constellation representation
+  * 80 000 objects from the deep sky
+  * Realistic views of nebulae, stars, sunset and sunrise
+  * Available here: [Stellarium](https://stellarium.org/)
