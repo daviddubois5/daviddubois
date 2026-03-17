@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Open Source and Open Access Materials"
-permalink: /openaccess/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
