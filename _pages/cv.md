@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Jmol
-=====
+##
 
 * Jmol is an open-source Java viewer for chemical structures in 3D. Download and documentation are available on [Jmol](https://jmol.sourceforge.net/)
 
